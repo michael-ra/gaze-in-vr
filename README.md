@@ -17,4 +17,6 @@ This can lead to an enhanced VR experience that feels real to
 the end user. This literature review aims to give a brief overview about the topic of gaze
 in VR and what the current state of research is in selected scientific literature.
 
+Link to PDF: https://github.com/michael-ra/gaze-in-vr/blob/main/Gaze_Social_Interactions_in_VR_.pdf
+
 ###### Keywords – gaze, virtual reality, social interactions, communication
